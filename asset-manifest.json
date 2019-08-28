@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/landing-test/static/css/main.15d9b66e.chunk.css",
+    "main.js": "/landing-test/static/js/main.00382b79.chunk.js",
+    "main.js.map": "/landing-test/static/js/main.00382b79.chunk.js.map",
+    "runtime~main.js": "/landing-test/static/js/runtime~main.0407917d.js",
+    "runtime~main.js.map": "/landing-test/static/js/runtime~main.0407917d.js.map",
+    "static/css/2.266e55a5.chunk.css": "/landing-test/static/css/2.266e55a5.chunk.css",
+    "static/js/2.41505019.chunk.js": "/landing-test/static/js/2.41505019.chunk.js",
+    "static/js/2.41505019.chunk.js.map": "/landing-test/static/js/2.41505019.chunk.js.map",
+    "index.html": "/landing-test/index.html",
+    "precache-manifest.a9dbb4376ced2dd793a2657f33c9f23d.js": "/landing-test/precache-manifest.a9dbb4376ced2dd793a2657f33c9f23d.js",
+    "service-worker.js": "/landing-test/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/landing-test/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.15d9b66e.chunk.css.map": "/landing-test/static/css/main.15d9b66e.chunk.css.map"
+  }
+}
