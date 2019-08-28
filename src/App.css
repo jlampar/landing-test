@@ -31,3 +31,53 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotron {
+  background-color: lightgreen !important;
+  height: 100vh;
+  margin-bottom: 0rem !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.biogram {
+  width: 300px;
+  height: fit-content;
+}
+
+.biogram-container {
+  background-color: salmon !important;
+  height: 100vh;
+}
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.container.hero-container {
+  width: 600px;
+}
+
+.title-container {
+  justify-content: center !important;
+}
+
+.request-meeting-container {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.title {
+   text-align: center;
+}
+
+.stand-location {
+   text-align: center;
+}
+
+.arrow-down-container {
+  text-align: center;
+  margin-top: 100px;
+}
